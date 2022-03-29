@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="12"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="ETH" vectornator:layerName="ETH">
+<g opacity="1">
+<path d="M511.906+378.644L197.609+521.5L511.906+707.281L826.204+521.5L511.906+378.644Z" opacity="1" fill="#ffffff"/>
+<path d="M197.611+521.498L511.909+707.278L511.909+378.641L511.909-1.34794e-05L197.611+521.498Z" opacity="1" fill="#ffffff"/>
+<path d="M511.906-1.34794e-05L511.906+378.641L511.906+707.278L826.204+521.498L511.906-1.34794e-05Z" opacity="1" fill="#ffffff"/>
+<path d="M197.611+581.097L511.909+1024L511.909+766.784L197.611+581.097Z" opacity="1" fill="#ffffff"/>
+<path d="M511.906+766.787L511.906+1024L826.391+581.1L511.906+766.787Z" opacity="1" fill="#ffffff"/>
+</g>
+</g>
+</svg>

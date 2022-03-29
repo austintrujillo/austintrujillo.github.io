@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="12"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="BTC" vectornator:layerName="BTC">
+<path d="M896.78+411.667C912.877+304.069+830.953+246.227+718.933+207.64L755.27+61.8852L666.549+39.7743L631.171+181.688C607.847+175.876+583.892+170.393+560.088+164.96L595.718+22.1109L507.047-1.11659e-05L470.684+145.704C451.378+141.308+432.426+136.961+414.03+132.387L414.131+131.933L291.775+101.382L268.173+196.143C268.173+196.143+334.001+211.229+332.611+212.164C368.544+221.134+375.039+244.913+373.952+263.764L332.56+429.811C335.037+430.442+338.246+431.352+341.784+432.767C338.827+432.034+335.669+431.226+332.409+430.442L274.39+663.049C269.993+673.965+258.849+690.34+233.731+684.124C234.615+685.413+169.243+668.027+169.243+668.027L125.198+769.586L240.655+798.368C262.134+803.75+283.184+809.385+303.905+814.692L267.188+962.115L355.808+984.226L392.171+838.37C416.38+844.94+439.88+851.004+462.876+856.715L426.639+1001.89L515.361+1024L552.077+876.855C703.367+905.486+817.13+893.937+865.016+757.102C903.603+646.927+863.096+583.374+783.496+541.932C841.465+528.564+885.131+490.432+896.78+411.667ZM694.067+695.925C666.65+806.1+481.146+746.54+421.004+731.605L469.724+536.297C529.865+551.307+722.723+581.024+694.067+695.925ZM721.51+410.075C696.493+510.294+542.096+459.376+492.012+446.893L536.183+269.753C586.267+282.236+747.563+305.535+721.51+410.075Z" opacity="1" fill="#ffffff"/>
+</g>
+</svg>

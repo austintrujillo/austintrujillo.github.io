@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="12"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Twitter" vectornator:layerName="Twitter">
+<path d="M919.171+303.109C919.795+312.136+919.795+321.164+919.795+330.274C919.795+607.877+708.463+928.037+322.032+928.037L322.032+927.871C207.88+928.037+96.098+895.339-1.45582e-05+833.686C16.5987+835.683+33.2807+836.682+50.0042+836.723C144.605+836.807+236.501+805.065+310.925+746.616C221.025+744.91+142.192+686.295+114.652+600.722C146.144+606.795+178.593+605.547+209.502+597.102C111.49+577.3+40.9768+491.186+40.9768+391.178C40.9768+390.263+40.9768+389.389+40.9768+388.515C70.1807+404.781+102.879+413.809+136.326+414.807C44.0137+353.113+15.5587+230.307+71.3039+134.293C177.969+265.543+335.345+345.334+504.286+353.779C487.354+280.811+510.484+204.348+565.065+153.055C649.681+73.5137+782.762+77.5905+862.303+162.165C909.354+152.888+954.449+135.624+995.717+111.162C980.033+159.794+947.21+201.104+903.363+227.354C945.005+222.445+985.691+211.296+1024.01+194.281C995.8+236.547+960.273+273.364+919.171+303.109Z" opacity="1" fill="#ffffff"/>
+</g>
+</svg>

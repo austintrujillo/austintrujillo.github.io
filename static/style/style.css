@@ -1,0 +1,62 @@
+
+html {     
+	background-image: linear-gradient(to bottom right, #28313b, #485461);
+	height: 100%;
+	overflow: hidden;
+}
+
+#content {
+	padding-top:100pt;
+}
+
+.logo {
+	width: 120pt;
+	display: flex;
+	margin: auto;
+	padding: 20pt;
+}
+
+.contact {
+	padding: 10pt;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.contact img {
+	padding: 10pt;
+	height: 20pt;
+}
+
+.contact a {
+	text-decoration: none;
+	color: #E0E0E0;
+	font-family: 'Monaco';
+}
+
+.contact a:visited {
+	color: #E0E0E0;
+}
+
+#copy {
+	position: fixed;
+  	left: 50%;
+  	bottom: 10pt;
+  	transform: translate(-50%, -50%);
+  	margin: 0 auto;
+	color: #e0e0e0;
+	font-size: 8pt;
+	font-family:'Helvetica';
+}
+
+#back {
+	position: fixed;
+	left: 15pt;         
+	top: 15pt;         
+	margin: 0 auto;
+}
+
+#back img {
+	padding: 15pt;
+	height: 30pt;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="1"/>
+<vectornator:setting key="SnapToPoints" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="12"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="XLM" vectornator:layerName="XLM">
+<path d="M1024+295.749L1024+383.844L986.742+402.796C958.444+417.23+941.586+447.218+943.981+478.862C944.804+489.852+945.237+500.972+945.237+512.092C945.185+674.747+853.801+823.63+708.691+897.475C563.582+971.321+389.264+957.651+257.473+862.092L257.473+862.092L333.983+823.15L338.315+820.857C448.116+882.344+582.323+881.101+690.963+817.589C799.602+754.078+866.397+637.815+866.475+512.092C866.47+496.524+865.457+480.973+863.442+465.535L863.442+465.535L267.437+768.848L144.138+831.588L1.14441e-05+904.928L1.14441e-05+816.617L145.135+742.757L215.666+706.801L1024+295.749ZM315.203+126.579C460.313+52.6826+634.661+66.3196+766.484+161.876L766.484+161.876L755.956+167.242L685.382+203.155C575.609+141.925+441.583+143.312+333.104+206.801C224.625+270.289+157.907+386.39+157.742+511.963C157.748+527.43+158.761+542.881+160.774+558.217L160.774+558.217L756.173+255.337L879.472+192.597L1024+118.954L1024+207.308L878.216+281.514L807.685+317.384L180.01+636.793L145.048+654.576L109.566+672.662L1.14441e-05+728.435L1.14441e-05+640.038L37.2151+621.086C65.5381+606.673+82.4177+576.677+80.019+545.02C79.1814+534.087+78.7626+523.112+78.7626+512.092C78.7458+349.415+170.092+200.475+315.203+126.579Z" opacity="1" fill="#ffffff"/>
+</g>
+</svg>
