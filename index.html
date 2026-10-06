@@ -3,19 +3,140 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Austin Trujillo — IT systems, automation, and thoughtful infrastructure.">
+  <meta name="theme-color" content="#0c0b0a">
   <title>Austin Trujillo</title>
-  <style>
-    :root { color-scheme: light dark; font-family: system-ui, -apple-system, sans-serif; }
-    body { margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 2rem; }
-    main { max-width: 36rem; }
-    h1 { font-size: 1.75rem; margin: 0 0 0.5rem; }
-    p { margin: 0; line-height: 1.5; opacity: 0.85; }
-  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <main>
-    <h1>Austin Trujillo</h1>
-    <p>Personal site. More coming soon.</p>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="#top" aria-label="Austin Trujillo — home">AT</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="#skills">Skills</a>
+        <a href="#work">Work</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section id="top" class="hero" aria-labelledby="hero-name">
+      <p class="hero-eyebrow reveal">Utah · Systems &amp; Operations</p>
+      <h1 id="hero-name" class="hero-name reveal">Austin Trujillo</h1>
+      <p class="hero-tagline reveal">
+        Building calm infrastructure — ITSM, collaboration platforms,
+        and automation that stays out of the way.
+      </p>
+      <div class="hero-rule reveal" aria-hidden="true"></div>
+    </section>
+
+    <section id="skills" class="skills" aria-labelledby="skills-heading">
+      <div class="section-head reveal">
+        <p class="section-index">01</p>
+        <h2 id="skills-heading">Capabilities</h2>
+      </div>
+      <ul class="skill-grid">
+        <li class="skill-card reveal">
+          <h3>IT Service Management</h3>
+          <p>Freshservice and adjacent ITSM workflows — intake, routing, and SLA clarity without ceremony.</p>
+        </li>
+        <li class="skill-card reveal">
+          <h3>Collaboration Platforms</h3>
+          <p>Microsoft Teams Rooms migrations and endpoint readiness — rooms that just work on day one.</p>
+        </li>
+        <li class="skill-card reveal">
+          <h3>Automation &amp; Scripting</h3>
+          <p>Lightweight scripts and process automation that remove repetitive toil from support and ops.</p>
+        </li>
+        <li class="skill-card reveal">
+          <h3>Customer-Facing Support</h3>
+          <p>Apple Genius–honed diagnostics and communication — technical depth with composure.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section id="work" class="work" aria-labelledby="work-heading">
+      <div class="section-head reveal">
+        <p class="section-index">02</p>
+        <h2 id="work-heading">Selected work</h2>
+      </div>
+      <ol class="project-list">
+        <li class="project reveal">
+          <div class="project-meta">
+            <span class="project-num">01</span>
+            <h3 class="project-title">Freshservice ITSM rollout</h3>
+          </div>
+          <p class="project-blurb">Structured ticket taxonomy, automations, and agent workflows for cleaner request handling across teams.</p>
+          <a class="project-link" href="#" aria-disabled="true">Case study soon</a>
+        </li>
+        <li class="project reveal">
+          <div class="project-meta">
+            <span class="project-num">02</span>
+            <h3 class="project-title">Teams Rooms migration</h3>
+          </div>
+          <p class="project-blurb">Phased conference-room cutover — hardware inventory, licensing, and user-ready rooms with minimal downtime.</p>
+          <a class="project-link" href="#" aria-disabled="true">Case study soon</a>
+        </li>
+        <li class="project reveal">
+          <div class="project-meta">
+            <span class="project-num">03</span>
+            <h3 class="project-title">Ops automation toolkit</h3>
+          </div>
+          <p class="project-blurb">Scripts and small utilities that standardize onboarding, reporting, and recurring maintenance tasks.</p>
+          <a class="project-link" href="#" aria-disabled="true">Case study soon</a>
+        </li>
+        <li class="project reveal">
+          <div class="project-meta">
+            <span class="project-num">04</span>
+            <h3 class="project-title">Genius Bar craft</h3>
+          </div>
+          <p class="project-blurb">High-volume hardware support and repair triage — precision diagnostics under real customer pressure.</p>
+          <a class="project-link" href="#" aria-disabled="true">Case study soon</a>
+        </li>
+      </ol>
+    </section>
+
+    <section id="contact" class="contact" aria-labelledby="contact-heading">
+      <div class="section-head reveal">
+        <p class="section-index">03</p>
+        <h2 id="contact-heading">Contact</h2>
+      </div>
+      <div class="contact-panel reveal">
+        <p class="contact-lead">Inquiries welcome. An email address will be listed here shortly.</p>
+        <p class="contact-email">
+          <span class="contact-label">Email</span>
+          <span class="contact-value">Email coming soon</span>
+        </p>
+        <div class="social">
+          <span class="contact-label">Elsewhere</span>
+          <ul class="social-list">
+            <li>
+              <a href="https://x.com/eightbitaustin" rel="noopener noreferrer" target="_blank">
+                X <span class="social-handle">@eightbitaustin</span>
+              </a>
+            </li>
+            <li>
+              <!-- Austin: replace href with your LinkedIn profile URL when ready -->
+              <a href="#linkedin" aria-label="LinkedIn profile — URL to be added">
+                LinkedIn <span class="social-handle">coming soon</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
   </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Austin Trujillo</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
