@@ -352,9 +352,21 @@ main {
   }
 }
 
-.project-link[aria-disabled="true"] {
-  pointer-events: none;
+span.project-link {
   cursor: default;
+}
+
+.social-pending {
+  color: var(--ink-faint);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
 }
 
 .project:hover .project-title {
@@ -419,7 +431,8 @@ main {
   gap: 1.25rem 2rem;
 }
 
-.social-list a {
+.social-list a,
+.social-pending {
   text-decoration: none;
   font-weight: 400;
   display: inline-flex;
@@ -453,13 +466,13 @@ main {
 }
 
 /* ——— Reveal motion ——— */
-.reveal {
+.js .reveal {
   opacity: 0;
   transform: translateY(1.1rem);
   transition: opacity 0.8s var(--ease), transform 0.8s var(--ease);
 }
 
-.reveal.is-visible {
+.js .reveal.is-visible {
   opacity: 1;
   transform: none;
 }
